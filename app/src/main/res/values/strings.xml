@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Health INFO</string>
+
+    <string name="welcomebtn">Ayo Mulai !</string>
+    <string name="welcome">Selamat Datang di Health Info</string>
+    <string name="welcomesub">Di aplikasi ini kamu akan mendapatkan beragam informasi terkait kesehatan, berita COVID-19 terkini, dan artikel mengenai pola hidup yang sehat.</string>
+
+    <string name="lokasi">Pilih Kota yang diinginkan</string>
+
+    <string name="lokasi1">Sukabumi</string>
+    <string name="locked_loc">Lokasi Terkunci</string>
+
+    <string name="about_us">Tentang Kami</string>
+    <string name="about_us_nama">Hadiana Rochman</string>
+    <string name="about_us_nim">312019009</string>
+    <string name="about_us_alamat">Jl. Sukasari No. 85 RT 27 RW 04, Desa Nagrak, Kec. Cisaat, Kab. Sukabumi, Jawa Barat. Kode Pos 43152</string>
+    <string name="about_us_kontak">Hubungi Kami</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

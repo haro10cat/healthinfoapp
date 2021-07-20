@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="roundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="roundedcornerImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">15%</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="bigfont">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="smallfont">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+</resources>
